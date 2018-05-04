@@ -2,6 +2,12 @@
 //:: cases Parameters2
 //:: tools silicon
 //:: verdict Pass
+
+class Counter
+{
+	int x;
+}
+
 class parameters {
   
   given    frac p;
